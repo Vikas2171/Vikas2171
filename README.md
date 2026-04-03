@@ -3,9 +3,7 @@
 </p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Software Engineer Intern;Security+%26+Cryptography+Researcher;CTF+%26+Penetration+Testing+Enthusiast;Competitive+Programmer;IIT+Jammu+CS+%2726;BTP%3A+Quantum-Safe+Video+Conferencing" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern;Security+%26+Cryptography+Researcher;CTF+%26+Penetration+Testing+Enthusiast;Competitive+Programmer;IIT+Jammu+CS+%2726;BTP%3A+Quantum-Safe+Video+Conferencing" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 whoami
