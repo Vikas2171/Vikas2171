@@ -47,7 +47,7 @@ vikas@prajapati:~$ cat current_work.txt
 🔐 BTP: Quantum-safe video conferencing
         → Kyber + Dilithium + GStreamer
 
-💼 Intern @ Tuning Bill, Jaipur
+💼 Software Engineer Intern, Jaipur, Rajasthan, India
         → Blockchain, Cold Storage & MPC
 
 🛡️  Pentest & Web Security Research
