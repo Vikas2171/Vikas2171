@@ -273,7 +273,7 @@ A threshold-based crypto wallet splitting the private key between a hot machine 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikas2171&bg_color=0d1117&color=00ff41&line=00d9ff&point=00ff41&area=true&area_color=00ff4120&hide_border=true" width="98%" alt="Vikas's Contribution Graph"/>
+<img src="github-readme-activity-graph-production.up.railway.app/graph?username=Vikas2171&bg_color=0d1117&color=00ff41&line=00d9ff&point=00ff41&area=true&area_color=00ff4120&hide_border=true" width="98%"/>
 
 </div>
 
