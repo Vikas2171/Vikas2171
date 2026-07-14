@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRIC }}
           user: Vikas2171
           template: classic
-          base: activity, community, repositories
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           output_action: commit
@@ -24,4 +24,3 @@ jobs:
           committer_branch: output
           committer_message: "chore: update metrics"
           config_timezone: Asia/Kolkata
-          config_padding: 0, 8
