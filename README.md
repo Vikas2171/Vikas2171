@@ -273,7 +273,7 @@ A threshold-based crypto wallet splitting the private key between a hot machine 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vikas2171/Vikas2171/output/github-snake-dark.svg" width="98%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Vikas2171/Vikas2171/output/metrics.svg" width="98%" alt="Vikas's Activity Graph"/>
 
 </div>
 
