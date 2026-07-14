@@ -271,12 +271,6 @@ A threshold-based crypto wallet splitting the private key between a hot machine 
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vikas2171/Vikas2171/output/metrics.svg" width="98%" alt="Vikas's Contribution Graph"/>
-
-</div>
-
 ---
 
 ## 🌐 Let's Connect
