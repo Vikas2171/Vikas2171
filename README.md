@@ -20,7 +20,7 @@ vikas@prajapati:~$ cat profile.json
 {
   "name"      : "Vikas Prajapati",
   "education" : "IIT Jammu, CS '26",
-  "intern"    : "Tuning Bill, Jaipur",
+  "Software Developer"    : "Tuning Bill, Jaipur",
   "location"  : "Jaipur, Rajasthan, IN",
   "focus"     : [
     "Security",
@@ -47,7 +47,7 @@ vikas@prajapati:~$ cat current_work.txt
 🔐 BTP: Quantum-safe video conferencing
         → Kyber + Dilithium + GStreamer
 
-💼 Software Engineer Intern, Jaipur, Rajasthan
+💼 Software Developer, Jaipur, Rajasthan
         → Blockchain, Cold Storage & MPC
 
 🛡️  Pentest & Web Security Research
@@ -197,7 +197,7 @@ A portfolio that looks and works like a real terminal CLI. Type `about`, `projec
 
 <div align="center">
 
-### 🔒 Software Engineer Intern
+### 🔒 Software Developer
 **`Fintech Startup · Jaipur, India · 2026–Present`**
 
 </div>
